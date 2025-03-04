@@ -1,6 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFRbyntjfLe0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725529575292?e=1731542400&v=beta&t=n9zK3EcqFPtUYMDILK3w1W_DZ2ZiqpSc6h3GRNiERmg"> 
-💫 About Me:
-Hi, I'm Rakib Hossain 👋<br>I'm a passionate Frontend Developer with a love for creating smooth and visually engaging web experiences. I specialize in HTML, CSS, and JavaScript, along with modern libraries and frameworks like GSAP for animations. Currently, I'm focused on crafting intuitive, user-friendly interfaces and constantly learning new technologies to elevate my development skills.<br><br>💻 I’m building projects to solve real-world problems.<br>🚀 Always striving to bring the most efficient and aesthetic solutions to the web.<br>🎨 I enjoy bringing static designs to life through creative animations and responsive layouts.<br>Feel free to explore my repositories, and let's collaborate on some awesome projects!
+Hi,
+I'm Rakib Hossain 👋<br>I'm a passionate Frontend Developer with a love for creating smooth and visually engaging web experiences. I specialize in HTML, CSS, and JavaScript, along with modern libraries and frameworks like GSAP for animations. Currently, I'm focused on crafting intuitive, user-friendly interfaces and constantly learning new technologies to elevate my development skills.<br><br>💻 I’m building projects to solve real-world problems.<br>🚀 Always striving to bring the most efficient and aesthetic solutions to the web.<br>🎨 I enjoy bringing static designs to life through creative animations and responsive layouts.<br>Feel free to explore my repositories, and let's collaborate on some awesome projects!
 
 🔗My Portfolio:
 https://rakibhossainofficial.netlify.app/
