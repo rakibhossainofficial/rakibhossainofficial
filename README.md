@@ -6,16 +6,27 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/rakib-hossain-88808931a/)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+
 <br>
 <p align="center">
-  Hi, I'm Rakib Hossain, Frontend Developer from Bangladesh
+  Hi, I'm <b>Md. Rakib Hossain</b>&nbsp;<img src="https://img.shields.io/badge/Frontend%20Developer-007ACC?style=flat" alt="Frontend Developer Badge"/> From Bangladesh
+
   <br>
   <br>
-  
+  👋 I'm  passionate in Frontend Developer with a love for clean design and interactive user experiences. I enjoy turning ideas into real-world projects using HTML, CSS, and JavaScript. Currently, I'm exploring modern frameworks and improving my skills every day. Let's build something amazing together!
+    <br>
+    <br>
+   🌐 Exploring the power of Next.js for modern web development
+    <br>
 </p>
+
+
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/rakib-hossain-88808931a/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/?size=48&id=13930&format=png"> LinkedIn</a></code>
+</h5>
+
+
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -35,6 +46,8 @@
 <code><img title="Canva" height="25" src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png"></code>
 <code><img title="Photoshop" height="25" src="https://img.icons8.com/?size=48&id=13677&format=png"></code>
 </p>
+<br> 
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
