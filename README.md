@@ -1,3 +1,4 @@
+![GitHub Banner](https://i.ibb.co/dsBd9bK2/linkedin-Cover.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
