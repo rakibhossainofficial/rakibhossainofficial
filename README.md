@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/k6P9kGPh/Linked-In-Cover.jpg" alt="Rakib  Hossain Banner" style="width:100%;" />
+ <img src="https://i.ibb.co/fhFhMCT/Linked-In-Cover.jpg" alt="Rakib Hossain Banner" style="width:100%;" /> 
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
