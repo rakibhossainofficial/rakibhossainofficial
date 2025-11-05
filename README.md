@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co/dsBd9bK2/linkedin-Cover.png)
+![GitHub Banner](https://i.ibb.co/k6P9kGPh/Linked-In-Cover.jpg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
